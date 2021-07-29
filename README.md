@@ -13,6 +13,6 @@ Busqueda de los datos mediante el id de este (Postman/LocalServer)
 Get Fecth Javascript
 ![Captura(Get Js)](https://user-images.githubusercontent.com/78440424/127533896-98d29a87-6a79-4948-8b99-bf09397a4cdf.PNG)
 
-Tambien se puede utilizar la funcion post de fecth para enviar datos 
+
 
 Sebastian Vargas 2019-7820
